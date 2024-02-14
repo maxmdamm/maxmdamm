@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @maxmdamm
+- 👋 Hi, I’m Max
 - 👀 I’m interested in learning how the world works
-- 🌱 I’m currently learning python, C and some other cool stuff
+- 🌱 I’m currently learning C, Git and some other cool stuff
 - 📫 How to reach me? Just DM me on Insta or LinkedIn @maxmdamm
 
 <!---
